@@ -1,13 +1,13 @@
-<h1 align="center">Hi there, I'm Manthiramoorthy A 👋🧪</h1>
+<h1 align="center">🥋 The Adventure Log of Manthiramoorthy A 🐉</h1>
 
-<h3 align="center">🚀 Software Testing Enthusiast | 🤖 Automation Testing Learner | 📡 ECE Graduate</h3>
+<h3 align="center">🧭 Hero-in-Training | 🗺️ Quest: Master the Ancient Art of Testing-Fu</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Testing+Enthusiast+%F0%9F%A7%AA;Manual+Testing+%7C+Selenium+%F0%9F%A4%96;SQL+%7C+Core+Java+%F0%9F%92%BB;Learning+Automation+Testing+%F0%9F%9A%80;Always+Learning+New+Tech+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=900&lines=Chapter+1%3A+The+Journey+Begins+%F0%9F%9A%80;Skill+Scroll%3A+Manual+Testing+%7C+Selenium+%F0%9F%A5%8B;Ancient+Knowledge%3A+SQL+%7C+Core+Java+%F0%9F%93%9C;Training+in+the+Art+of+Automation+%F0%9F%90%89;Always+Collecting+New+Powers+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="380">
 </p>
 
 <p align="center">
@@ -26,18 +26,24 @@
 
 ---
 
-### 👨‍💻 About Me
+## 📖 The Story So Far
 
-- 🎓 B.E. Electronics & Communication Engineering Graduate (2026)
-- 🧪 Software Testing Trainee at **QSpiders**
-- 🌱 Currently mastering **Manual Testing, Selenium, SQL, Core Java & TestNG**
-- 💻 Passionate about **QA Automation** and **Software Development**
-- 🚀 Actively seeking opportunities as a **Software Test Engineer / QA Automation Engineer**
-- 📚 Believer in continuous learning & problem-solving
+> *Every legend starts somewhere. Ours starts with a curious Electronics & Communication Engineering graduate who discovered a new calling — hunting down bugs 🐛 before they cause chaos, and guarding the realm of software quality.*
 
-<br>
+- 🎓 **Origin Story:** B.E. Electronics & Communication Engineering Graduate (2026)
+- 🏯 **Training Grounds:** Software Testing Trainee at **QSpiders**
+- 📜 **Current Quest:** Mastering Manual Testing, Selenium, SQL, Core Java & TestNG
+- ⚔️ **Special Skill:** Hunting bugs across Web Realms using QA Automation
+- 🌍 **Next Chapter:** Seeking a role as **Software Test Engineer / QA Automation Engineer**
+- 🔮 **Guiding Principle:** *"A true tester never stops training."*
 
-### 🛠️ Tech Stack & Skills
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320">
+</p>
+
+---
+
+## 🎒 Skill Scrolls (Powers Unlocked)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Manual%20Testing-FF6F61?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
@@ -55,51 +61,56 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-**Testing Concepts:** SDLC & STLC · Test Case Design · Bug Reporting · Black / White / Grey Box Testing
-**Automation Frameworks:** Data-Driven Framework · Hybrid Framework
+📜 **Combat Techniques (Testing Concepts):** SDLC & STLC · Test Case Design · Bug Reporting · Black / White / Grey Box Testing
+🥋 **Special Forms (Frameworks):** Data-Driven Framework · Hybrid Framework
 
 ---
 
-### 💼 Experience
+## 🏯 Training Arc
 
-<img align="right" width="250" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+<img align="right" width="240" src="https://media.giphy.com/media/3ohhwLh5dydcJnRcQI/giphy.gif">
 
-**Software Testing Trainee — QSpiders**
-- Learning Manual & Automation Testing
-- Writing effective, structured Test Cases
-- Automating web apps with **Selenium WebDriver**
-- Applying **SQL** for database testing
-- Working with **TestNG** & Automation Frameworks
+**Apprentice — QSpiders Dojo** 🥷
+- Studying the sacred texts of Manual & Automation Testing
+- Forging precise **Test Case scrolls**
+- Wielding the legendary **Selenium WebDriver** blade
+- Decoding ancient **SQL** archives for database secrets
+- Training under the **TestNG** discipline & framework masters
 
 <br clear="right"/>
 
 ---
 
-### 🚀 Featured Projects
+## 🗺️ Quests Completed
 
-| Project | Description |
+| 🏆 Quest | 🛠️ Artifacts Used |
 |---|---|
 | 📦 **Real-Time Order Monitoring System** | Node.js · Express.js · PostgreSQL · WebSocket |
-| 🤖 **AAC Assistive Control System** | Final Year Engineering Project |
+| 🤖 **AAC Assistive Control System** | Final Year Engineering Boss Battle |
+| 📡 **Outdoor WiFi Coverage & Environmental Optimization** | Juniper AP63 |
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Adventure Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Magic21204&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magic21204&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Magic21204&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Magic21204&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-
 ---
 
-### 🌱 Currently Exploring
+## 🌱 Currently Training For
 
-`API Testing` · `Automation Frameworks` · `Advanced Core Java` · `CI/CD basics`
+`API Testing` · `Automation Frameworks` · `Advanced Core Java` · `CI/CD Basics`
 
 ---
 
@@ -108,9 +119,9 @@
 </p>
 
 <p align="center">
-  <i>"Quality is never an accident; it is always the result of intelligent effort."</i>
+  <i>"Every bug defeated is a lesson learned. Every test written is a step closer to mastery."</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Magic21204&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Magic21204&style=flat-square&color=orange" alt="Profile views"/>
 </p>

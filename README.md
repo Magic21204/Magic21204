@@ -81,7 +81,6 @@
 |---|---|
 | 📦 **Real-Time Order Monitoring System** | Node.js · Express.js · PostgreSQL · WebSocket |
 | 🤖 **AAC Assistive Control System** | Final Year Engineering Project |
-| 📡 **Outdoor WiFi Coverage & Environmental Optimization** | Juniper AP63 |
 
 ---
 
@@ -96,9 +95,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Magic21204&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Magic21204&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+
 
 ---
 

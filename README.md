@@ -74,22 +74,21 @@
 | 🤖 **AAC Assistive Control System** | Final year engineering project | Embedded Systems |
 | 📡 **Outdoor WiFi Coverage & Environmental Optimization** | Network coverage & environment optimization | Juniper AP63 |
 
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Magic21204/Magic21204/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="90%"/>
+<img src="https://raw.githubusercontent.com/Magic21204/Magic21204/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="90%"/>
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Magic21204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magic21204&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Magic21204&theme=tokyonight&hide_border=true" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Magic21204&theme=tokyo-night&hide_border=true&cache_seconds=86400" width="90%"/>
+<img src="https://raw.githubusercontent.com/Magic21204/github-stats/generated/overview.svg" width="49%"/>
+<img src="https://raw.githubusercontent.com/Magic21204/github-stats/generated/languages.svg" width="49%"/>
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Magic21204&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
+<sub>Generated automatically once a day by <a href="https://github.com/Magic21204/github-stats">Magic21204/github-stats</a> — no external rate limits.</sub>
 
 ## 🌱 Currently Learning
 

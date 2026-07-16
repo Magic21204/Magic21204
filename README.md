@@ -89,7 +89,6 @@
 </div>
 
 <sub>Generated automatically once a day by <a href="https://github.com/Magic21204/github-stats">Magic21204/github-stats</a> — no external rate limits.</sub>
-
 ## 🌱 Currently Learning
 
 ![Selenium](https://img.shields.io/badge/-Selenium%20WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white)

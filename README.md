@@ -72,7 +72,6 @@
 |---|---|---|
 | 📦 **Real-Time Order Monitoring System** | Live order tracking system | Node.js, Express.js, PostgreSQL, WebSocket |
 | 🤖 **AAC Assistive Control System** | Final year engineering project | Embedded Systems |
-| 📡 **Outdoor WiFi Coverage & Environmental Optimization** | Network coverage & environment optimization | Juniper AP63 |
 
 ## 🐍 Contribution Snake
 
